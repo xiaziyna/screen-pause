@@ -1,6 +1,6 @@
 # Screen Pause
 
-Pause a part of the screen and drag it around.
+Pause a part of the screen and drag it around. No need to bother resizing windows. Handy if you're writing and need to keep checking a reference, or comparing things. 
 
 ## Requirements
 
