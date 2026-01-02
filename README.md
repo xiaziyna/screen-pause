@@ -4,8 +4,8 @@ Pause a part of the screen and drag it around.
 
 ## Requirements
 
-- Python 3.10+
-- XFCE (for the included hotkey setup script)
+- Python 3
+- XFCE (at the moment this is designed to work only on my computer)
 
 ## Install
 
